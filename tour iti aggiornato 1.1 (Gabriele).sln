@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tour iti aggiornato 1.1 (Gabriele)", "tour iti aggiornato 1.1 (Gabriele).csproj", "{CFE18D78-7121-27D4-7711-9B8E3810456F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFE18D78-7121-27D4-7711-9B8E3810456F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFE18D78-7121-27D4-7711-9B8E3810456F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFE18D78-7121-27D4-7711-9B8E3810456F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFE18D78-7121-27D4-7711-9B8E3810456F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
